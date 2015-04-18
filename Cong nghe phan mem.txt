@@ -1,0 +1,11 @@
+
+--- cau hinh File or create a new repository on the command line
+echo # Ass08---Create-Project-on-Git-Hub >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:congthanhit/Ass08---Create-Project-on-Git-Hub.git
+git push -u origin master
+
+--- user : 51280177
+--- pass : 123456
